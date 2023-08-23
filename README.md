@@ -24,28 +24,28 @@
 
 ### Language Programming 
 
-[![](https://img.shields.io/badge/-CSharp-239120?logo=csharp&logoColor=white&style=for-the-badge)
-[![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-[![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
-[![](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-[![](https://img.shields.io/badge/-Java-5382a1?logo=java&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/-CSharp-239120?logo=csharp&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/-Java-5382a1?logo=java&logoColor=white&style=for-the-badge)
 
 ### Frameworks
-[![](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-[![](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)
-[![](https://img.shields.io/badge/-Node-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/-Node-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
 
 ### Library
 ![](https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge)
 
 ### Markup Languages ​​and Style 
-[![](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-[![](https://img.shields.io/badge/-Markdown-000?logo=markdown&logoColor=white&style=for-the-badge)
-[![](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/-Markdown-000?logo=markdown&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 
 ### Database 
-[![](https://img.shields.io/badge/-microsoft%20sql%20server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge)
-[![](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/-microsoft%20sql%20server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 
 ### Monitoring 
 ![](https://img.shields.io/badge/-splunk-000?logo=splunk&logoColor=white&style=for-the-badge)
